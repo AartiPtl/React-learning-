@@ -22,6 +22,9 @@ const styles = StyleSheet.create({
         borderRadius: 6,
         backgroundColor: 'purple'
     },
+    pressedItem: {
+        opacity: 0.5,
+    },
 
     goalText: {
         color: 'white',

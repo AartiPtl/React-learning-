@@ -4,6 +4,6 @@ import Layout from './src/goal/Layout';
 
 export default function App() {
   return (
-    <Layout/>
+    <Goal />
   );
 }
